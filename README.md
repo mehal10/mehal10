@@ -6,3 +6,11 @@ Welcome to my GitHub profile! I'm a second-year **Computer Science Engineering**
 - 📚 Learning **Data Structures** and **Algorithms** to strengthen problem-solving abilities.
 - 🌐 Building projects in **Web Development**, including both front-end and back-end.
 - 🤖 Exploring **Machine Learning** and **Artificial Intelligence** through hands-on projects.
+
+## 🛠️ Technologies & Tools
+I work with a variety of tools and technologies, some of my favorites include:
+
+Languages:
+-JavaScript,C++,C
+-HTML, CSS, Sass (for web development)
+-SQL, NoSQL (for database management)
