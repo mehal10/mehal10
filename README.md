@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a second-year Computer Science Engineering (CS
 
 ## 🚀 About Me
 
-* 🎓 CSE Student (2nd Year)
+* 🎓 CSE Student 
 * 💡 Curious learner with a growth mindset
 * 🧠 Passionate about problem-solving and logic building
 * ⚡ Love experimenting with new technologies and frameworks
